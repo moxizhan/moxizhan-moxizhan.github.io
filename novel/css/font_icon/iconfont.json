@@ -1,0 +1,37 @@
+{
+  "id": "2294294",
+  "name": "project",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1068818",
+      "name": "我的",
+      "font_class": "weibiaoti2fuzhi12",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "2269627",
+      "name": "摄像头",
+      "font_class": "shexiangtou1",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "3865276",
+      "name": "书本",
+      "font_class": "shuben1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "12685479",
+      "name": "城市",
+      "font_class": "icon_huabanfuben",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    }
+  ]
+}
